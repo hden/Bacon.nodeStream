@@ -1,0 +1,28 @@
+{
+  "name": "Bacon.nodeStream",
+  "version": "0.0.1",
+  "description": "Connecting Node stream with Bacon.EventStream",
+  "main": "lib/Bacon.nodeStream.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hden/Bacon.nodeStream.git"
+  },
+  "keywords": [
+    "stream",
+    "Bacon",
+    "RFP"
+  ],
+  "author": "Hao-kang Den <haokang.den@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "f4cffe0837643d50a657e16e36afaeeaac7887f7",
+  "dependencies": {
+    "baconjs": "~0.3.2"
+  }
+}
