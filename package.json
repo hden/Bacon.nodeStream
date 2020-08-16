@@ -23,6 +23,6 @@
   "readmeFilename": "README.md",
   "gitHead": "f4cffe0837643d50a657e16e36afaeeaac7887f7",
   "dependencies": {
-    "baconjs": "~0.3.2"
+    "baconjs": "~0.7.0"
   }
 }
